@@ -1,0 +1,36 @@
+{
+  "version": "0.0.0",
+  "description": "Babel plugin for writing curse words instead of important because reasons",
+  "repository": "https://github.com/SaraVieira/babel-caralho",
+  "author": "Sara Vieira <hey@iamsaravieira.com>",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "mocha": "^4.0.1",
+    "npm-run-all": "^4.1.2"
+  },
+  "scripts": {
+    "clean": "rm -rf lib",
+    "build": "babel src -d lib",
+    "example:build": "babel example/input.js -o example/output.js",
+    "example": "run-s build example:build",
+    "test": "mocha --compilers js:babel-register",
+    "test:watch": "npm run test -- --watch",
+    "prepublish": "run-s clean build"
+  },
+  "keywords": [
+    "babel",
+    "css",
+    "babel-plugin",
+    "plugin",
+    "curse",
+    "curseincss"
+  ],
+  "dependencies": {
+    "curse-words-common": "^1.0.0"
+  }
+}
