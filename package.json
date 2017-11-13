@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Babel plugin for writing curse words instead of important because reasons",
   "repository": "https://github.com/SaraVieira/babel-caralho",
   "author": "Sara Vieira <hey@iamsaravieira.com>",
