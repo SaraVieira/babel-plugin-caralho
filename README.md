@@ -200,6 +200,10 @@ require("babel-core").transform("code", {
 * jebotikonjkrvavimkurcemmater ("jebo ti konj krvavim kurcem mater" horse fucks your mother with bloody dick)
 * jebemtisvestosezakvakuuhvati ("jebem ti sve sto se za kvaku uhvati" i fuck your everyone who used your door knob)
 
+### Italian
+* cazzo
+* fanculo
+* merda
 
 And all of this will become important after babel does his thing.
 
