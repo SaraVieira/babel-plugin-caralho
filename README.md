@@ -8,6 +8,9 @@ Babel plugin for writing curse words instead of important because reasons
 
 ## Example
 
+The example is in styled-components but it also works with [Glamor](https://github.com/threepointone/glamor) as seen [here](https://astexplorer.net/#/gist/6225cf36044cc4b94fc93017d7ec2090/latest) and [Emotion](https://github.com/emotion-js/emotion) as seen [here](https://astexplorer.net/#/gist/a1d088dd71fcaec5cab193f25b4433a6/3ea1da764aec36d0597ae5fd90d20fc0ec1abe74) because it just looks for strings.
+
+
 **In**
 
 ```js
