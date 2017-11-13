@@ -12,7 +12,7 @@ Babel plugin for writing curse words instead of important because reasons
 
 ```js
 import React from 'react';
-import styled from 'style-components';
+import styled from 'styled-components';
 
 const Title = styled.h1`
   font-size: 1.5em;
@@ -36,7 +36,7 @@ render(
 
 ```js
 import React from 'react';
-import styled from 'style-components';
+import styled from 'styled-components';
 
 const Title = styled.h1`
   font-size: 1.5em;
