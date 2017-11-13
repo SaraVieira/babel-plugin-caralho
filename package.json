@@ -5,6 +5,7 @@
   "author": "Sara Vieira <hey@iamsaravieira.com>",
   "main": "lib/index.js",
   "license": "MIT",
+  "name": "babel-plugin-caralho",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-plugin-syntax-jsx": "^6.18.0",
