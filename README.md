@@ -1,7 +1,11 @@
 # babel-plugin-caralho
 
-
 Babel plugin for writing curse words instead of important because reasons
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/babel-plugin-caralho'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/babel-plugin-caralho.svg' />
+</a>
+
 ## Example
 
 **In**
