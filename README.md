@@ -1,14 +1,21 @@
 # babel-plugin-caralho
 
-
 Babel plugin for writing curse words instead of important because reasons
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/babel-plugin-caralho'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/TcwA1EShekGpPzRyQvGn9ysQ/SaraVieira/babel-plugin-caralho.svg' />
+</a>
+
 ## Example
+
+The example is in styled-components but it also works with [Glamor](https://github.com/threepointone/glamor) as seen [here](https://astexplorer.net/#/gist/6225cf36044cc4b94fc93017d7ec2090/latest) and [Emotion](https://github.com/emotion-js/emotion) as seen [here](https://astexplorer.net/#/gist/a1d088dd71fcaec5cab193f25b4433a6/3ea1da764aec36d0597ae5fd90d20fc0ec1abe74) because it just looks for strings.
+
 
 **In**
 
 ```js
 import React from 'react';
-import styled from 'style-components';
+import styled from 'styled-components';
 
 const Title = styled.h1`
   font-size: 1.5em;
@@ -32,7 +39,7 @@ render(
 
 ```js
 import React from 'react';
-import styled from 'style-components';
+import styled from 'styled-components';
 
 const Title = styled.h1`
   font-size: 1.5em;
